@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+
+bilibili.com##.bili-layout
+bilibili.com##.banner-link
+juejin.cn##.extension
+blog.csdn.net##div[style="width:100%; height:100%; background-image: url(https://img-bss.csdn.net/1610683242960.png); background-size: auto 80px;background-repeat: no-repeat; background-position: center center;"]
+blog.csdn.net##.toolbar-advert-default
+blog.csdn.net##.login-mark
+bilibili.com##.first-screen.b-wrap
+bilibili.com###bili_report_live
+bilibili.com##.space-between.report-wrap-module.report-scroll-module
+||passport.csdn.net/account/login?from=https://blog.csdn.net/solopiggy/article/details/104478138
+||passport.csdn.net/account/login?from=https://blog.csdn.net/Reborn_Lee/article/details/101620074
+||passport.csdn.net/account/login?from=https://blog.csdn.net/ouyang_peng/article/details/81431208
