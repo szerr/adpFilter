@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-
+t.bilibili.com##.right
 bilibili.com##.bili-layout
 bilibili.com##.banner-link
 juejin.cn##.extension
