@@ -1,4 +1,5 @@
 [Adblock Plus 2.0]
+bilibili.com##.bili-feed4-layout
 t.bilibili.com##.right
 bilibili.com##.bili-layout
 bilibili.com##.banner-link
