@@ -10,6 +10,10 @@ blog.csdn.net##.login-mark
 bilibili.com##.first-screen.b-wrap
 bilibili.com###bili_report_live
 bilibili.com##.space-between.report-wrap-module.report-scroll-module
+bilibili.com###right-bottom-banner
+bilibili.com##.rec-list
+bilibili.com###live_recommand_report
+bilibili.com##.pop-live-small-mode.report-wrap-module.report-scroll-module.part-undefined
 ||passport.csdn.net/account/login?from=https://blog.csdn.net/solopiggy/article/details/104478138
 ||passport.csdn.net/account/login?from=https://blog.csdn.net/Reborn_Lee/article/details/101620074
 ||passport.csdn.net/account/login?from=https://blog.csdn.net/ouyang_peng/article/details/81431208
