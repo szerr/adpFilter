@@ -20,3 +20,4 @@ bilibili.com##.pop-live-small-mode.report-wrap-module.report-scroll-module.part-
 baike.baidu.com##.secondsknow-large
 baike.baidu.com##.secondsknow-large-container.J-secondsknow-large-container
 blog.csdn.net##.passport-login-container
+map.baidu.com###message-panel
